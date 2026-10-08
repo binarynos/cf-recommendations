@@ -4,28 +4,28 @@
       "id": 1,
       "title": "Euphoria",
       "description": "A dark coming-of-age drama exploring love, addiction, friendship and identity in a world full of temptation and uncertainty.",
-      "imageUrl": "https://picsum.photos/seed/show1/400/600",
+      "imageUrl": "https://silent-snowflake-b65b.virtualninja.workers.dev/?key=supersecret123&target=https://media.themoviedb.org/t/p/w500_and_h282_face/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
       "deepLink": "myapp://watch/1"
     },
     {
       "id": 2,
       "title": "Game of Thrones",
       "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-      "imageUrl": "https://picsum.photos/seed/show2/400/600",
+      "imageUrl": "https://silent-snowflake-b65b.virtualninja.workers.dev/?key=supersecret123&target=https://media.themoviedb.org/t/p/w500_and_h282_face/9dlshsL8e4s5SFvBrf3c28lWXj6.jpg",
       "deepLink": "myapp://watch/2"
     },
     {
       "id": 3,
       "title": "The L Word",
       "description": "In this sequel to The L Word, we continue to follow the intermingled lives of Bette Porter, Alice Pieszecki and Shane McCutcheon, along with a new generation of diverse, self-possessed LGBTQIA+ characters experiencing love, heartbreak, sex, setbacks and success in L.A.",
-      "imageUrl": "https://picsum.photos/seed/show3/400/600",
+      "imageUrl": "https://silent-snowflake-b65b.virtualninja.workers.dev/?key=supersecret123&target=https://image.tmdb.org/t/p/w533_and_h300_face/koqtAffjlC5WDXz5SHwCBea7mjQ.jpg",
       "deepLink": "myapp://watch/3"
     },
     {
       "id": 4,
       "title": "Californification",
       "description": "A self-loathing, alcoholic writer attempts to repair his damaged relationships with his daughter and her mother while combating sex addiction, a budding drug problem, and the seeming inability to avoid making bad decisions.",
-      "imageUrl": "",
+      "imageUrl": "https://silent-snowflake-b65b.virtualninja.workers.dev/?key=supersecret123&target=https://image.tmdb.org/t/p/w500_and_h282_face/187FkhdtnWaHtJFnDT4SUUtb9vA.jpg",
       "deepLink": "myapp://watch/4"
     }
   ]
